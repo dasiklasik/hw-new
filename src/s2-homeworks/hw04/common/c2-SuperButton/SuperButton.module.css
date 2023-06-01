@@ -38,6 +38,7 @@
   color: #0066CC;
 }
 
+.disabled {}
 
 .default:active {
   background: #0059B3;
